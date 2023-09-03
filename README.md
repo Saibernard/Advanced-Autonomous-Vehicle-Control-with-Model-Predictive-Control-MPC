@@ -47,6 +47,10 @@ Leveraging Python's CVXPY library and the OSQP solver, the MPC optimization prob
 
 A critical aspect of this project was visualizing the current segment of the reference path and the MPC's predicted trajectory, aiding in debugging and providing insights.
 
+### Simulation results in Rviz:
+
+https://www.youtube.com/watch?v=ugK-iorKzo0
+
 ## Conclusion
 
 This project not only showcases the MPC's theoretical aspects but also offers hands-on experience in implementing an MPC for vehicle control, a crucial element in autonomous vehicle systems. The result is a car tracking waypoints effectively in a simulated environment, demonstrating the power and precision of MPC in action.
